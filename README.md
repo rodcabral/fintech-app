@@ -6,6 +6,9 @@
   Homepage of a fintech app made with React Native.
 </h4>
 <p align="center">
+  You can check the design on my <a href="https://dribbble.com/rodrigocabral">dribbble</a>
+</p>
+<p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#bulb-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;
 </p>
