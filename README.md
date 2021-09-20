@@ -18,7 +18,8 @@
 ## :rocket: Technologies
 
 -  [React Native (expo)](https://expo.io)
--  [styled-components](https://www.styled-components.com/)
+-  [Styled-components](https://www.styled-components.com/)
+-  [Typescript](typescriptlang.org/)
 
 ## :bulb: How To Use
 
