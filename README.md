@@ -22,7 +22,7 @@
 
 -  [React Native (expo)](https://expo.io)
 -  [Styled-components](https://www.styled-components.com/)
--  [Typescript](typescriptlang.org/)
+-  [Typescript](https://www.typescriptlang.org/)
 
 ## :bulb: How To Use
 
