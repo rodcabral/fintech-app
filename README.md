@@ -9,11 +9,11 @@
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#bulb-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-
-<p align="center">
-  <img alt="Shot" src="https://i.imgur.com/KhL9HoB_d.png?maxwidth=760&fidelity=grand">
-</p>
+<br/>
+<div align="center">
+  <img alt="Shot" src="./home.png" width="280px">
+</div>
+</br>
 
 ## :rocket: Technologies
 
@@ -39,7 +39,7 @@ $ expo start
 ```
 ---
 
-Made with ♥ by Rodrigo Cabral :wave: [Get in touch!](https://www.linkedin.com/in/rodcabral/)
+Made with 💖 by [Rodrigo Cabral](https://www.linkedin.com/in/rodcabral/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
