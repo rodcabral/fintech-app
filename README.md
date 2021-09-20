@@ -1,5 +1,5 @@
 <h1 align="center">
-    Fintech App
+    Fintech
 </h1>
 
 <h4 align="center">
