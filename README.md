@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Homepage of a fintech app made with React Native.
+  Screen of a fintech app made with React Native.
 </h4>
 
 <p align="center">
